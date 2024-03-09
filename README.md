@@ -1,6 +1,8 @@
 # blink_detection
 对视频中的人脸进行识别，并记录其眨眼的情况，以此可以来判断是否处于疲劳驾驶的状态
 
+详细的思路可以参考这篇博客：https://blog.csdn.net/w_lixiang/article/details/136584105?spm=1001.2014.3001.5502
+
 # 文件缺失
 由于文件大小的限制，文件中少了一个模型，链接：https://pan.baidu.com/s/1TtfnNdWWezAxVfWQL96QVQ?pwd=9999 
 
